@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Wenye (Bear) Xiong
+### Hi there 👋, I'm Wenye (Bear) Xiong, currently a sophomore student at ShanghaiTech University
 
 #### About Me
 - 🌱 Working Time: 10:00 - 23:00 (UTC +8:00)
