@@ -12,5 +12,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiongWenye&layout=compact&theme=radical)
 
 #### Connect with me
-- [Twitter](https://x.com/BearXio29672246)
 - [Personal Website](https://xiongwenye.github.io)
