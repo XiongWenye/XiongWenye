@@ -2,7 +2,7 @@
 
 #### About Me
 - 🌱 Working Time: 10:00 - 23:00 (UTC +8:00)
-- 👯 I’m looking to collaborate on AI for Healthcare, Multimodal Machine Learning, Health Foundation Models, and AI for Life Science.
+- 👯 I’m looking to collaborate on Multimodal Machine Learning, Computer Vision, and AI for Healthcare & Life Science.
 - 📫 How to reach me: xiongwenye@shanghaitech.edu.cn
 
 #### My GitHub Stats
