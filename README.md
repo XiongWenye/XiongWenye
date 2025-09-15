@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Wenye (Bear) Xiong, currently a junior visiting undergrad at Harvard University
+### Hi there 👋, I'm Wenye (Bear) Xiong, currently a visiting undergraduate student at Harvard University
 
 #### About Me
 - 🌱 Working Time: 10:00 - 23:00 (UTC +8:00)
