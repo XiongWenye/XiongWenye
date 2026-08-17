@@ -5,11 +5,7 @@
 - 👯 I’m looking to collaborate on Multimodal Machine Learning, Computer Vision, and AI for Healthcare & Life Science.
 - 📫 How to reach me: xiongwenye@shanghaitech.edu.cn
 
-#### My GitHub Stats
-![XiongWenye's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiongWenye&show_icons=true&theme=radical)
-
-#### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiongWenye&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=XiongWenye)](https://git.io/streak-stats)
 
 #### Connect with me
 - [Personal Website](https://xiongwenye.github.io)
