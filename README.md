@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Wenye (Bear) Xiong
+### Hi there 👋, I'm Wenye Xiong
 
 I'm an undergraduate student at ShanghaiTech University and an incoming Ph.D. student in the School of Artificial Intelligence at Shanghai Jiao Tong University, advised by Prof. [Guohao Dai](https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao).
 
