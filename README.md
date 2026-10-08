@@ -9,7 +9,7 @@ I'm an undergraduate student at ShanghaiTech University and an incoming Ph.D. st
 - 💻 I'm currently working on cloud-edge integrated intelligent systems and vision-language-action (VLA) acceleration.
 - 👯 I'm open to collaborations on embodied AI systems, efficient VLA inference, compositional generation, and scene understanding.
 - 🌱 Working hours: 10:00–23:00 (UTC+8).
-- 📫 Email: [xiongwenye@shanghaitech.edu.cn](mailto:xiongwenye@shanghaitech.edu.cn)
+- 📫 Email: [wenyexio@gmail.com](mailto:wenyexio@gmail.com)
 
 <!-- GitHub streak (daily contribution streak) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=XiongWenye&theme=dark&hide_border=true)](https://git.io/streak-stats)
